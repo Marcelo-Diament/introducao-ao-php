@@ -1,2 +1,2 @@
-# introducao-php
-Material de Apoio para Módulo de PHP
+# introducao-ao-php
+Repositório com conceitos básicos de PHP para fins didáticos
