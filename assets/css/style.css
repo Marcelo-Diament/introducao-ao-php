@@ -33,6 +33,9 @@ main {
 main a {
     font-weight: bold;
 }
+table {
+    text-align: center;
+}
 footer {
     background-color: #343a40;
     border-top: 2px solid rgba(0, 119, 255, 0.85);
